@@ -40,7 +40,7 @@ while (true)
 	}
 	else
 	{
-		Console.WriteLine("Invalid. Write a NUMBER between 1-20");
+		Console.WriteLine("Invalid. Write a number between 1-20");
 	}
 }
 
